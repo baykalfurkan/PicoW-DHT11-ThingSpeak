@@ -15,7 +15,7 @@ Bu proje, Raspberry Pi Pico W ile DHT11 sensöründen sıcaklık ve nem verileri
 ## Gereksinimler
 - **Raspberry Pi Pico W** mikrodenetleyicisi
 - **DHT11 sensörü**
-- **MicroPython** yüklü bir Raspberry Pi Pico W
+- **MicroPython** 
 - Wi-Fi ağına bağlantı
 
 ## Raspberry Pi Pico W - Pinout
